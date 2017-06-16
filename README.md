@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/romeo27091985/bitcoin.org.png?label=ready&title=Ready)](https://waffle.io/romeo27091985/bitcoin.org?utm_source=badge)
 # Welcome to Bitcoin.org's Codebase
 
 Current Build Status: ![Build Status](https://travis-ci.org/bitcoin-dot-org/bitcoin.org.svg?branch=master)
